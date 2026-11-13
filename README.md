@@ -2,10 +2,10 @@
 
 ## 環境需求
 
-- [Node.js](https://nodejs.org/) `>= 18`（建議使用目前的 LTS 版本）
+- [Node.js](https://nodejs.org/) `>= 20`（建議使用目前的 LTS 版本）
 - npm（隨 Node.js 一起安裝）
 
-確認版本：
+確認版本（`node -v` 應顯示 `v20` 或更新的版本）：
 
 ```bash
 node -v
